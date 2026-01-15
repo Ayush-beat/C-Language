@@ -1,2 +1,1 @@
-# HackerRank
-This are my HackerRank Codes...
+C-Language
